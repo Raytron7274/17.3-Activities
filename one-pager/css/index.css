@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: royalblue;
+}
+
+nav {
+    background-color: magenta;
+}
+
+.car-name {
+    background-color: cyan;
+    height: 30%;
+    border-bottom: 2px color(black);
+}
+
+.car-stats {
+    background-color: royalblue;
+    height: 70%;
+    float: bottom;
+}
+.nav-item {
+    display: inline-block;
+    padding: 15px;
+    background-color: purple;
+}
+
+.car-info {
+    width: 29%;
+    background-color: aqua;
+    height: 600px;
+    float: left;
+}
+
+.car-details {
+    width: 70%;
+    background-color: lightpink;
+    height: 600px;
+    float: right;
+}
+
